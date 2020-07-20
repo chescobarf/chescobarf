@@ -1,6 +1,6 @@
 # Hi I'm Chris :fox_face:
 
-:computer:  I'm a graduate in Computer Engineering, working as a Frontend Developer in Chile ⛰🏡
+:computer:  I'm a graduate in Computer Engineering 🎓, working as a Frontend Developer in Chile ⛰🏡
 
 ## My knowledge
 
@@ -30,10 +30,18 @@
 
 ## I'm currently studying:
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Node JS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Vue JS](https://img.shields.io/badge/-VueJS-black?style=flat-square&logo=vue.js)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+
+---
+#### I use these frameworks to CSS 📚♻
+
+![Materialize CSS](https://img.shields.io/badge/-Materialize%20CSS-ee6e73?style=flat-square&logo=monzo&logoColor=ffffff)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind%20css&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=ffffff)
+![Bulma.io](https://img.shields.io/badge/-Bulma.io-00D1B2?style=flat-square&logo=bulma&logoColor=ffffff)
 
 
 <!--
