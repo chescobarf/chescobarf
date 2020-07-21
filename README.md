@@ -30,14 +30,14 @@
 
 ## I'm currently studying:
 
-![Node JS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=ffffff)
+![Node JS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
 ![Vue JS](https://img.shields.io/badge/-VueJS-black?style=flat-square&logo=vue.js)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
 ---
 #### I use these frameworks to CSS 📚♻
-
 ![Materialize CSS](https://img.shields.io/badge/-Materialize%20CSS-ee6e73?style=flat-square&logo=monzo&logoColor=ffffff)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind%20css&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=ffffff)
