@@ -1,7 +1,8 @@
 # Hi I'm Chris :fox_face:
 
-:computer:  I'm a graduate in Computer Engineering 🎓, working as a Frontend Developer in Chile ⛰🏡
-
+:computer:  I'm a graduate in Computer Engineering 🎓, working as a Frontend Developer in Chile ⛰🏡\
+\
+🤖 const seeMyWeb = () => { return 'https://christian-escobar.netlify.app/' }
 ## My knowledge
 
 ### Frontend
