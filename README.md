@@ -3,6 +3,9 @@
 :computer:  I'm a graduate in Computer Engineering 🎓, working as a Frontend Developer in Chile ⛰🏡\
 \
 🤖 const seeMyWeb = () => { return 'https://christian-escobar.netlify.app/' }
+
+![Studiying](https://img.shields.io/badge/Studying%20in-CoderHouse-blue?style=for-the-badge&logo=React&color=fcf408&labelColor=000)
+
 ## My knowledge
 
 ### Frontend
@@ -27,6 +30,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Elementary](https://img.shields.io/badge/-Elementary%20OS-black?style=flat-square&logo=elementary)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Manjaro](https://img.shields.io/badge/-Manjaro-black?style=flat-square&logo=manjaro)
 
