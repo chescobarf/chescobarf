@@ -1,10 +1,13 @@
 # Hi I'm Chris :fox_face:
 
-:computer:  I'm a graduate in Computer Engineering 🎓, working as a Frontend Developer in Chile ⛰🏡\
-\
+:computer:  I'm a graduate in Computer Engineering 🎓, working as a Frontend Developer in Chile ⛰🏡
+
 🤖 const seeMyWeb = () => { return 'https://christian-escobar.netlify.app/' }
 
 ![Studiying](https://img.shields.io/badge/Studying%20in-CoderHouse-blue?style=for-the-badge&logo=React&color=fcf408&labelColor=000)
+
+![Working In](https://img.shields.io/badge/Working%20in-VTEX%20Chile-white?style=for-the-badge&logo=VTEX&color=ED125F&labelColor=000)
+
 
 ## My knowledge
 
@@ -14,6 +17,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![VTEX IO](https://img.shields.io/badge/%20-VTEX%20IO-orange?style=flat-square&logo=vtex&color=ED125F)
+
 
 ### Database
 
