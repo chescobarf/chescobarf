@@ -2,11 +2,9 @@
 
 :computer:  I'm a graduate in Computer Engineering 🎓, working as a Frontend Developer in Chile ⛰🏡
 
-🤖 const seeMyWeb = () => { return 'https://christian-escobar.netlify.app/' }
+🤖 const [seeMyWeb](https://christian-escobar.netlify.app) = () => 'https://christian-escobar.netlify.app/'
 
-![Studiying](https://img.shields.io/badge/Studying%20in-CoderHouse-blue?style=for-the-badge&logo=React&color=fcf408&labelColor=000)
-
-![Working In](https://img.shields.io/badge/Working%20in-VTEX%20Chile-white?style=for-the-badge&logo=VTEX&color=ED125F&labelColor=000)
+![Working In](https://img.shields.io/badge/Ex%20vtexer-VTEX%20Chile-white?style=for-the-badge&logo=VTEX&color=ED125F&labelColor=000)
 
 
 ## My knowledge
@@ -18,7 +16,8 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![VTEX IO](https://img.shields.io/badge/%20-VTEX%20IO-orange?style=flat-square&logo=vtex&color=ED125F)
-
+![Vue JS](https://img.shields.io/badge/-VueJS-black?style=flat-square&logo=vue.js)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
 ### Database
 
@@ -35,15 +34,11 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Elementary](https://img.shields.io/badge/-Elementary%20OS-black?style=flat-square&logo=elementary)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![Manjaro](https://img.shields.io/badge/-Manjaro-black?style=flat-square&logo=manjaro)
 
 ## I'm currently studying:
 
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Node JS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
-![Vue JS](https://img.shields.io/badge/-VueJS-black?style=flat-square&logo=vue.js)
+![Ionic](https://img.shields.io/badge/-Ionic-white?style=flat-square&logo=Ionic)
+
 
 ---
 #### I use these frameworks to CSS 📚♻
